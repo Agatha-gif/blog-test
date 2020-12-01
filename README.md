@@ -7,7 +7,7 @@
 这是多行代码
 ```javascript
     ver b = 1
-    onsole log(b)
+    console log(b)
 ```
 
 我的爱好是
